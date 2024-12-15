@@ -3,142 +3,92 @@
     {
       "id": "mw2",
       "name": "MW2",
-      "shortName": "MW2",
-      "gameId": "cod-mw2-2022",
       "brandColors": {
-        "primary": "#7fca2a",
-        "secondary": "#00221B"
+        "primary": "#7fca2a"
       },
-      "fontFamily": "ModernWarfare-8MM6z.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
-      "logoPosition": "left",
       "isDefault": false
-    }, 
+    },
     {
       "id": "mw3",
       "name": "MW3",
-      "shortName": "MW3",
-      "gameId": "cod-mw3-2023",
       "brandColors": {
-        "primary": "#d80000",
-        "secondary": "#001F29"
+        "primary": "#d80000"
       },
-      "fontFamily": "ModernWarfare-8MM6z.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.png",
-      "logoPosition": "left",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "bo6",
       "name": "Black Ops 6",
-      "shortName": "BO6",
-      "gameId": "cod-bo6",
       "brandColors": {
-        "primary": "#f96800",
-        "secondary": "#1F1F1F"
+        "primary": "#f96800"
       },
-      "fontFamily": "HitmarkerText-Bold.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6.png",
-      "logoPosition": "left",
       "isDefault": true
     },
     {
       "id": "fortnite",
       "name": "Fortnite",
-      "shortName": "FN",
-      "gameId": "epic-fortnite",
       "brandColors": {
-        "primary": "#13cae3",
-        "secondary": "#1DB8FF"
+        "primary": "#13cae3"
       },
-      "fontFamily": "Fortnite.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/fortnite.png",
-      "logoPosition": "left",
       "isDefault": true
     },
     {
       "id": "valorant",
       "name": "Valorant",
-      "shortName": "VAL",
-      "gameId": "riot-valorant",
       "brandColors": {
-        "primary": "#ff4655",
-        "secondary": "#1F1F1F"
+        "primary": "#ff4655"
       },
-      "fontFamily": "Valorant Font.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/valorant.png",
-      "logoPosition": "left",
       "isDefault": true
     },
     {
       "id": "fivem",
       "name": "FiveM",
-      "shortName": "5M",
-      "gameId": "cfx-fivem",
       "brandColors": {
-        "primary": "#ff7100",
-        "secondary": "#1F1F1F"
+        "primary": "#ff7100"
       },
-      "fontFamily": "Montserrat",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Fivem.png",
-      "logoPosition": "left",
       "isDefault": false
     },
     {
       "id": "cs2",
       "name": "CS2",
-      "shortName": "CS2",
-      "gameId": "valve-cs2",
       "brandColors": {
-        "primary": "#fcac19",
-        "secondary": "#FF6B00"
+        "primary": "#fcac19"
       },
-      "fontFamily": "High Speed.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/cs2.png",
-      "logoPosition": "left",
       "isDefault": false
     },
     {
       "id": "rust",
       "name": "Rust",
-      "shortName": "RUST",
-      "gameId": "facepunch-rust",
       "brandColors": {
-        "primary": "#f0514b",
-        "secondary": "#1F1F1F"
+        "primary": "#f0514b"
       },
-      "fontFamily": "D3SuperstructurismInline-MV0B.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/rust.png",
-      "logoPosition": "left",
       "isDefault": false
     },
     {
       "id": "apex",
       "name": "Apex Legends",
-      "shortName": "APEX",
-      "gameId": "ea-apex",
       "brandColors": {
-        "primary": "#ed1b24",
-        "secondary": "#1F1F1F"
+        "primary": "#ed1b24"
       },
-      "fontFamily": "Apex-Bold.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
-      "logoPosition": "left",
       "isDefault": false
     },
     {
       "id": "others",
       "name": "Others",
-      "shortName": "OTHER",
-      "gameId": "misc-others",
       "brandColors": {
-        "primary": "#808080",
-        "secondary": "#1F1F1F"
+        "primary": "#808080"
       },
-      "fontFamily": "Inter",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
-      "logoPosition": "left",
-      "isDefault": false
+      "isDefault": true
     }
   ]
 }
