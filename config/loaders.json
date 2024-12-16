@@ -1,5 +1,5 @@
 {
-        "defaultListView": true,
+        "defaultListView": false,
         "loaders": [
             {
                 "id": "UA",
